@@ -24,7 +24,7 @@ not	O
 to	O
 be	O
 at	O
-Disney	O
+Disney	B
 world	O
 ,	O
 but	O
@@ -46,14 +46,14 @@ trip	O
 .	O
 
 '	O
-Breaking	B
+Breaking	O
 Dawn	I
 '	O
 Returns	O
 to	O
 Vancouver	O
 on	O
-January	O
+January	B
 11th	O
 http://bit.ly/dbDMs8	O
 
@@ -178,7 +178,7 @@ First	O
 time	O
 to	O
 the	O
-Apollo	O
+Apollo	B
 .	O
 
 RT	O
@@ -309,7 +309,7 @@ Wolves	O
 to	O
 host	O
 the	O
-Lions	O
+Lions	B
 for	O
 game	O
 time	O
@@ -363,7 +363,7 @@ sane	O
 Today	O
 is	O
 the	O
-COMPLETE	O
+COMPLETE	B
 OPPOSITE	O
 of	O
 yesterday	O
@@ -371,18 +371,18 @@ yesterday	O
 .	O
 -	O
 
-#SIUC	B
+#SIUC	O
 Whats	O
 the	O
 Plan	B
-For	I
+For	O
 tonight	O
 ??	O
 Whos	O
 Goin	O
 to	O
 the	O
-BLAST	O
+BLAST	B
 
 Just	O
 changed	O
@@ -465,8 +465,8 @@ Awesome	O
 Me	O
 :	O
 No	O
-Little	B
-Girl	O
+Little	O
+Girl	I
 ...	O
 You	O
 Only	O
@@ -562,11 +562,11 @@ Eats	O
 :	O
 Leftovers	O
 :	O
-The	O
-Day	O
+The	B
+Day	I
 's	O
-Stray	B
-Links	I
+Stray	O
+Links	O
 #Food	O
 http://portfo.li/t/7/rjE	O
 
@@ -637,7 +637,7 @@ Focus	O
 "	O
 Saturday	O
 ,	O
-November	O
+November	B
 13	O
 from	O
 1.:..	O
@@ -699,7 +699,7 @@ to	O
 rain	O
 in	O
 The	B
-Bay	O
+Bay	I
 on	O
 Sunday	O
 ...	O
@@ -781,7 +781,7 @@ come	O
 out	O
 here	O
 in	O
-Scotland	O
+Scotland	B
 yet	O
 ?	O
 i've	O
@@ -831,8 +831,8 @@ on	O
 the	O
 punt	O
 until	O
-Stakes	B
-Day	O
+Stakes	O
+Day	I
 ...	O
 #sadbuttrue	O
 
@@ -972,7 +972,7 @@ tonight	O
 So	O
 here	O
 in	O
-Belgium	O
+Belgium	B
 its	O
 now	O
 7minutes	O
@@ -1000,7 +1000,7 @@ band	O
 to	O
 compete	O
 in	O
-South	O
+South	B
 1.7	O
 's	O
 Battle	O
@@ -1023,8 +1023,8 @@ RT	O
 :	O
 Ladbrokes	O
 Labour	O
-Leadership	I
-Market-	O
+Leadership	O
+Market-	I
 http://bit.ly/cD3Rn8	O
 Ed	O
 Miliband	O
@@ -1070,7 +1070,7 @@ First	O
 Day	O
 of	O
 Autumn	B
-Networking	I
+Networking	O
 Mixer	O
 at	O
 Dick	B
@@ -1405,14 +1405,14 @@ Rep	O
 Steve	O
 King	O
 on	O
-ObamaCare	O
+ObamaCare	B
 ,	O
 Tea	B
 Party	I
 ,	O
 and	O
 Constitution	B
-Day	I
+Day	O
 :	O
 The	O
 inclusion	O
@@ -1456,15 +1456,15 @@ Breyer	O
 About	O
 Face	O
 :	O
-Koran-Burning	B
-Is	I
+Koran-Burning	O
+Is	O
 Constitutionally	O
 Protected	O
 After	O
 All	O
 via	O
 Atlas	B
-Shrugs	I
+Shrugs	O
 http://tinyurl.com/39wg73o	O
 
 Don't	O
@@ -1519,7 +1519,7 @@ Friday	O
 night	O
 craziness	O
 
-CHILLIN	B
+CHILLIN	O
 @LIVE	O
 TONIGHT	O
 !	O
@@ -1602,7 +1602,7 @@ RT	O
 :	O
 Hey	O
 ,	O
-Seattle-ites	O
+Seattle-ites	B
 !	O
 Check	O
 it	O
@@ -1648,7 +1648,7 @@ before	O
 or	O
 after	O
 at	O
-Pi	O
+Pi	B
 !	O
 CWE	O
 and	O
@@ -1658,7 +1658,7 @@ around	O
 the	O
 corner	O
 ,	O
-Kirkwood	O
+Kirkwood	B
 &amp;	O
 ...	O
 http://fb.me/I6SZ52nW	O
@@ -1827,7 +1827,7 @@ bait	O
 moments	O
 .	O
 
-CLUB	B
+CLUB	O
 BLU	O
 tonite	O
 ......	O
@@ -1896,7 +1896,7 @@ at	O
 muse	O
 717	O
 6th	O
-St	O
+St	B
 Nw	I
 Dc	O
 to	O
@@ -1997,6 +1997,6 @@ tomrrw	O
 and	O
 back	O
 to	O
-Kent	O
+Kent	B
 !'	O
 

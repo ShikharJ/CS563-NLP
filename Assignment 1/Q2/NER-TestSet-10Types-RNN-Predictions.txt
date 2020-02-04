@@ -53,7 +53,7 @@ Returns	O
 to	O
 Vancouver	O
 on	O
-January	B-geo-loc
+January	O
 11th	O
 http://bit.ly/dbDMs8	O
 
@@ -178,7 +178,7 @@ First	O
 time	O
 to	O
 the	O
-Apollo	B-geo-loc
+Apollo	O
 .	O
 
 RT	O
@@ -471,7 +471,7 @@ Girl	O
 You	O
 Only	O
 Use	O
-The	I-other
+The	O
 Word	O
 "	O
 Awesome	O
@@ -736,8 +736,8 @@ GuitarNews	O
 RockHouse	O
 :	O
 The	O
-Weekend	I-other
-Read	O
+Weekend	O
+Read	I-other
 For	O
 Sept	O
 .	O
@@ -1073,9 +1073,9 @@ Autumn	O
 Networking	O
 Mixer	O
 at	O
-Dick	B-geo-loc
+Dick	O
 's	O
-Carpet	B-geo-loc
+Carpet	O
 next	O
 T	O
 ...	O
@@ -1405,20 +1405,20 @@ Rep	O
 Steve	O
 King	O
 on	O
-ObamaCare	O
+ObamaCare	B-geo-loc
 ,	O
-Tea	O
+Tea	B-person
 Party	O
 ,	O
 and	O
-Constitution	O
+Constitution	B-person
 Day	O
 :	O
 The	O
 inclusion	O
 of	O
 the	O
-Tenth	B-person
+Tenth	O
 Amendment	O
 in	O
 ...	O
@@ -1897,7 +1897,7 @@ muse	O
 717	O
 6th	O
 St	O
-Nw	I-other
+Nw	O
 Dc	O
 to	O
 party	O
@@ -1938,7 +1938,7 @@ this	O
 International	O
 Observe	O
 the	O
-Moon	B-other
+Moon	O
 Night	O
 (	O
 9/18/2.1.	O
