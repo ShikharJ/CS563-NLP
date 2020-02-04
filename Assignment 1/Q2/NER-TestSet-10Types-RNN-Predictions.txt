@@ -178,7 +178,7 @@ First	O
 time	O
 to	O
 the	O
-Apollo	O
+Apollo	B-geo-loc
 .	O
 
 RT	O
@@ -737,7 +737,7 @@ RockHouse	O
 :	O
 The	O
 Weekend	O
-Read	I-other
+Read	O
 For	O
 Sept	O
 .	O
@@ -1070,7 +1070,7 @@ First	O
 Day	O
 of	O
 Autumn	O
-Networking	O
+Networking	I-other
 Mixer	O
 at	O
 Dick	O
@@ -1216,7 +1216,7 @@ crisis	O
 
 @sfgiantsfan55	O
 omg	O
-Todo	B-person
+Todo	O
 Cabio	O
 has	O
 been	O
@@ -1405,20 +1405,20 @@ Rep	O
 Steve	O
 King	O
 on	O
-ObamaCare	B-geo-loc
+ObamaCare	O
 ,	O
-Tea	B-person
+Tea	O
 Party	O
 ,	O
 and	O
-Constitution	B-person
+Constitution	O
 Day	O
 :	O
 The	O
 inclusion	O
 of	O
 the	O
-Tenth	O
+Tenth	B-other
 Amendment	O
 in	O
 ...	O
@@ -1938,7 +1938,7 @@ this	O
 International	O
 Observe	O
 the	O
-Moon	O
+Moon	B-other
 Night	O
 (	O
 9/18/2.1.	O

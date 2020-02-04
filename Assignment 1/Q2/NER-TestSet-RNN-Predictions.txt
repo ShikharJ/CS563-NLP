@@ -47,7 +47,7 @@ trip	O
 
 '	O
 Breaking	O
-Dawn	I
+Dawn	O
 '	O
 Returns	O
 to	O
@@ -466,7 +466,7 @@ Me	O
 :	O
 No	O
 Little	O
-Girl	I
+Girl	O
 ...	O
 You	O
 Only	O
@@ -565,7 +565,7 @@ Leftovers	O
 The	B
 Day	I
 's	O
-Stray	O
+Stray	B
 Links	O
 #Food	O
 http://portfo.li/t/7/rjE	O
@@ -637,7 +637,7 @@ Focus	O
 "	O
 Saturday	O
 ,	O
-November	B
+November	O
 13	O
 from	O
 1.:..	O
@@ -736,7 +736,7 @@ GuitarNews	O
 RockHouse	O
 :	O
 The	O
-Weekend	O
+Weekend	I
 Read	O
 For	O
 Sept	O
@@ -781,7 +781,7 @@ come	O
 out	O
 here	O
 in	O
-Scotland	B
+Scotland	O
 yet	O
 ?	O
 i've	O
@@ -831,7 +831,7 @@ on	O
 the	O
 punt	O
 until	O
-Stakes	O
+Stakes	B
 Day	I
 ...	O
 #sadbuttrue	O
@@ -1006,7 +1006,7 @@ South	B
 Battle	O
 of	O
 the	O
-Bands	O
+Bands	B
 next	O
 Friday	O
 for	O
@@ -1070,12 +1070,12 @@ First	O
 Day	O
 of	O
 Autumn	B
-Networking	O
+Networking	I
 Mixer	O
 at	O
 Dick	B
 's	O
-Carpet	O
+Carpet	B
 next	O
 T	O
 ...	O
@@ -1447,7 +1447,7 @@ there	O
 are	O
 in	O
 the	O
-CofE	O
+CofE	B
 !	O
 
 Justice	O
@@ -1464,7 +1464,7 @@ After	O
 All	O
 via	O
 Atlas	B
-Shrugs	O
+Shrugs	I
 http://tinyurl.com/39wg73o	O
 
 Don't	O
@@ -1658,7 +1658,7 @@ around	O
 the	O
 corner	O
 ,	O
-Kirkwood	B
+Kirkwood	O
 &amp;	O
 ...	O
 http://fb.me/I6SZ52nW	O
@@ -1896,9 +1896,9 @@ at	O
 muse	O
 717	O
 6th	O
-St	B
-Nw	I
-Dc	O
+St	O
+Nw	B
+Dc	I
 to	O
 party	O
 
